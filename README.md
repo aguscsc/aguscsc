@@ -1,5 +1,5 @@
 # Hello
-Im Agus, I am a electronics engineering student and here I document and share projects I find interesting.
+Im Agus, I am an electronics engineering student and here I document and share projects I find interesting.
 
 I am interested in Robotics, consumer electronics, automation and customization.
 
