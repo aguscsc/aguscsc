@@ -19,7 +19,7 @@ feel free to look around
 ### How to Reach Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/agustin-torres-bobadilla" target="_blank">
+  <a href="https://www.linkedin.com/in/agust%C3%ADn-torres-bobadilla" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
