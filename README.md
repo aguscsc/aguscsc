@@ -13,7 +13,7 @@ feel free to look around
 </P>                         
 
 ### Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aguscsc&show_icons=true&theme=gruvbox)](https://github.com/anuragts/github-readme-stats)
+<!--[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aguscsc&show_icons=true&theme=gruvbox)](https://github.com/anuragts/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguscsc&layout=compact&theme=tokyonight)](https://github.com/anuragts/github-readme-stats)
 
 ### How to Reach Me
